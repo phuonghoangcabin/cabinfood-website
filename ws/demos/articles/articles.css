@@ -160,7 +160,6 @@ body:not(.dark) .section-scroller {
 }
 
 body:not(.dark) .section-features {
-	background-color: transparent;
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	background-image: url('images/bg-3.svg');
