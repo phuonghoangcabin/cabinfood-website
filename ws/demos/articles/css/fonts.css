@@ -24,7 +24,7 @@ small,
 .testi-content p,
 .team-title span,
 .wedding-head .first-name span,
-.wedding-head .last-name span { font-family: 'Merriweather', serif; }
+.wedding-head .last-name span { font-family: 'Muli', serif; }
 
 
 h1,
@@ -48,4 +48,4 @@ label,
 .wedding-head .first-name,
 .wedding-head .last-name,
 #copyrights,
-.font-primary { font-family: 'Cabin', sans-serif; }
+.font-primary { font-family: 'Lexend Deca', sans-serif; }
