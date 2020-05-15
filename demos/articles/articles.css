@@ -147,15 +147,15 @@ body:not(.dark) .article-price { color:#0C1CCC; color: var(--themecolor) }
     margin-bottom: 0;
     height: 3px;
     width: 100%;
-    background: linear-gradient(to right, blue, lightblue);
+    background: linear-gradient(to right, rgb(34, 94, 184), lightblue);
 }
 
 .section-features .card.border-color-pink:before { background: linear-gradient(to right, red, pink); }
-.section-features .card.border-color-yellow:before { background: linear-gradient(to right, #e84a37, cyan); }
+.section-features .card.border-color-yellow:before { background: linear-gradient(to right, #2e9c0d, rgb(173, 236, 165)); }
 .section-features .card.border-color-info:before { background: linear-gradient(to right, #111, #DDD); }
 
 body:not(.dark) .section-scroller {
-	background-image: linear-gradient(to top, rgba(241,244,248,.5), rgba(241,244,248,.5) 30%, #FFF 30%);
+
 	background-repeat: no-repeat;
 }
 

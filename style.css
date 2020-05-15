@@ -7504,7 +7504,7 @@ body:not(.device-touch) .button.button-full strong {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	margin-bottom: 0;
-	color: #333;
+	color: #e84a37;
 }
 
 .feature-box p {
@@ -13935,4 +13935,30 @@ body:not(.no-transition) #wrapper,
 	text-shadow: none !important;
 }
 
+
+/* ----------------------------------------------------------------
+	CabinFood style
+-----------------------------------------------------------------*/
+.scard {
+	border-radius: 0.25rem;
+    box-shadow: 0 0 35px rgba(140, 152, 164, 0.2);
+    background-color: white;
+    border: 1px solid #EEE;
+}
+.cimage{
+	margin: 20px;
+	border-radius: 0.25rem;
+    box-shadow: 0 0 35px rgba(140, 152, 164, 0.2);
+    background-color: white;
+}
+.section-contact {
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-image: url('demos/articles/images/bgcontact.jpg');
+	background-size: auto 100%;
+}
+.section-partner {
+	background-image: linear-gradient(to top, rgba(241,244,248,.5), rgba(241,244,248,.5) 30%, #FFF 30%);
+	background-repeat: no-repeat;
+}
 
