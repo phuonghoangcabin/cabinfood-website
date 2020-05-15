@@ -112,7 +112,7 @@
 
 
 body,
-.dropdown-menu { font-size: 0.875rem; }
+.dropdown-menu { font-size: 17px; }
 
 
 /* ----------------------------------------------------------------
@@ -11351,7 +11351,7 @@ input[type=checkbox]:not(:checked) + label.error { display: block !important; }
 .heading-block h3 + span,
 .heading-block h4 + span { font-size: 20px; }
 
-.heading-block ~ p:not(.lead) { font-size: 15px; }
+.heading-block ~ p:not(.lead) { font-size: 17px; }
 
 .heading-block:after {
 	content: '';
